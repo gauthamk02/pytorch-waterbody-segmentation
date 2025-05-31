@@ -4,7 +4,7 @@ emoji: 🤗
 colorFrom: blue
 colorTo: gray
 sdk: gradio
-sdk_version: 3.10.0
+sdk_version: 5.32.0
 app_file: app.py
 pinned: false
 ---
@@ -24,4 +24,3 @@ You can try out the model on [Hugging Face Spaces](https://huggingface.co/spaces
 ## 🖥️ Sample Inference
 
 ![Sample Inference](samples/sample1.png)
-
